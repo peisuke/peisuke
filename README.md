@@ -13,7 +13,7 @@
 | [On Constrained Spectral Clustering and Its Applications](https://arxiv.org/abs/1201.5338) | ML | [code](https://github.com/peisuke/ConstrainedSpectralClustering) | Done |
 | [Implicit Geometric Regularization for Learning Shapes](https://arxiv.org/abs/2002.10099) | 3D | [code](https://github.com/peisuke/ImplicitGeometricRegularization.pytorch) | Done |
 | [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) | ML | [code](https://github.com/peisuke/MomentumContrast.pytorch) | Done |
-| [Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement](https://github.com/peisuke/ZeroDCE.pytorch) | Vision | [code](https://github.com/peisuke/ZeroDCE.pytorch) | In progress |
+| [Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement](https://github.com/peisuke/ZeroDCE.pytorch) | Vision | [code](https://github.com/peisuke/ZeroDCE.pytorch) | Not work |
 | [Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning](https://arxiv.org/abs/1910.00177) | ML | [code](https://github.com/peisuke/AdvantageWeightedRegression) | Done |
 | [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848) | ML | [code](https://github.com/peisuke/UnsupervisedDataAugmentation.pytorch) | Not work |
 | [A Stochastic PCA and SVD Algorithm with an Exponential Convergence Rate](https://arxiv.org/abs/1409.2848) | ML | [code](https://github.com/peisuke/vr_pca) | Done |
