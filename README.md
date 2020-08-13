@@ -21,4 +21,4 @@
 | [Value Iteration Networks](https://arxiv.org/abs/1602.02867) | ML | [code](https://github.com/peisuke/vin) | Done |
 | [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061) | ML | [code](https://github.com/peisuke/qnn) | Done |
 
-[履歴書](https://github.com/peisuke/resume)
+[myself](https://github.com/peisuke/resume)
