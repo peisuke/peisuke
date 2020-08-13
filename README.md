@@ -20,3 +20,5 @@
 | [L0TV: a new method for image restoration in the presence of impulse noise](https://openaccess.thecvf.com/content_cvpr_2015/papers/Yuan_L0TV_A_New_2015_CVPR_paper.pdf) | Vision | [code](https://github.com/peisuke/L0TV) | Done |
 | [Value Iteration Networks](https://arxiv.org/abs/1602.02867) | ML | [code](https://github.com/peisuke/vin) | Done |
 | [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061) | ML | [code](https://github.com/peisuke/qnn) | Done |
+
+[履歴書](https://github.com/peisuke/resume)
