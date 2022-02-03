@@ -7,6 +7,7 @@
 
 | Title | Genre | Code | Paper | Status |
 | ---- | ---- | ---- | ---- | ---- |
+| Generative Adversarial Positive-Unlabelled Learning | ML | [code](https://github.com/peisuke/GenPU) | [paper](https://arxiv.org/abs/1711.08054) | Done |
 | AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss | Audio | [code](https://github.com/peisuke/AutoVC.pytorch) | [paper](https://arxiv.org/abs/1905.05879) | Done |
 | F0-consistent many-to-many non-parallel voice conversion via conditional autoencoder | Audio | [code](https://github.com/peisuke/AutoVC.pytorch/tree/f0)| [paper](https://arxiv.org/abs/2004.07370) | Done | 
 | SqueezeWave: Extremely Lightweight Vocoders for On-device Speech Synthesis | Audio | [code](https://github.com/peisuke/SqeezeWave-VQVAE)| [paper](https://arxiv.org/abs/2001.05685) | In progress |
